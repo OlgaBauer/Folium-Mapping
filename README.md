@@ -1,2 +1,2 @@
 # Folium-Mapping
-Using Folium to Display Well Density in Washington Co, Texas
+Using Folium Library to Visualize Well Density in Washington Co, Texas
