@@ -1,4 +1,4 @@
 # Folium-Mapping-Website
 This repository contains code and files for publishing a Folium Map fo visualizing Well Density in Washington Co, Texas
-<iframe src="map_logo.png" height="500" width="500"></iframe>
-https://olgabauer.github.io/Folium-Mapping/
+
+You can explore this map [as its own web page here] https://olgabauer.github.io/Folium-Mapping/
